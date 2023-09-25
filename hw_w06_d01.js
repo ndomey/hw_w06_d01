@@ -71,7 +71,8 @@ const suspects = declareAllSuspects();
 console.log(suspects);
 console.log(`Suspect three is ${suspectThree}.`);
 
-// error msg
+// The suspects are Miss Scarlet, Prof Plum, Colonel Mustard.
+//Suspect three is Mrs. Peacock.
 
 
 
@@ -194,7 +195,7 @@ changeScenario();
 const verdict = declareWeapon();
 console.log(verdict);
 
-//The weapon is lead pipe.
+//The weapon is candle  stick.
 
 
 
@@ -214,3 +215,5 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 //The murderer is Prf. Plum
+
+
